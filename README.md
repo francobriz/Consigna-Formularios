@@ -1,3 +1,4 @@
+![previo](https://user-images.githubusercontent.com/82916451/118412836-92c76480-b672-11eb-90d8-8e75f000c50e.png)
 # Consigna Formularios
 ***Este ejercicio consiste en crear paginas estaticas HTML en donde nos encontramos con 2 formularios***
 
